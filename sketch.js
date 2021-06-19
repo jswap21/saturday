@@ -16,7 +16,7 @@ function setup(){
 }
 
 function draw(){
-    background(0);
+    background("pink");
     Engine.update(engine);
     box1.display();
     box2.display();
